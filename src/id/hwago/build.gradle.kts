@@ -13,6 +13,6 @@ keiyoushi {
 
     source {
         lang = "id"
-        baseUrl = "https://02.hwago.xyz"
+        baseUrl = "https://01.hwago.com/"
     }
 }
